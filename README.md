@@ -14,7 +14,7 @@ A powerful habit tracking plugin for Obsidian that helps you build and maintain 
 - ⚡ **Quick Access** - Ribbon icon and commands for easy access to your habits
 - 📂 **Organized** - All habits stored in a dedicated folder (default: `Habits/`)
 
-## How It Works
+## How It Works 
 
 Each habit is stored as a **markdown note** in your vault with:
 - **Frontmatter** containing metadata (ID, color, creation date, etc.)
